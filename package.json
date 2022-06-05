@@ -1,0 +1,17 @@
+{
+  "name": "duck-wallpaper",
+  "version": "1.0.0",
+  "description": "create wallpapers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Asticotboy",
+  "license": "ISC",
+  "dependencies": {
+    "downloadjs": "^1.4.7",
+    "express": "^4.18.1",
+    "html-to-image": "^1.9.0",
+    "serve": "^13.0.2"
+  }
+}
